@@ -1,4 +1,4 @@
-# Julio MARTINEZ
+# Julio Martínez
 
 As a seasoned developer with over 18 years of experience, I specialize in Data
 Engineering, as well as Backend Development; mastering languages like Python,
@@ -96,7 +96,7 @@ a speaker at numerous conferences and meetups.
     - 2 papers presented at international congresses
 
 - At "Enersol SL", electronic company
-  - Developer: Jun 2000 - Sep 2000
+  - Associate Developer: Jun 2000 - Sep 2000
     - Irrigation radio-controlled system
       (C++ Builder with assembler on PLC)
 

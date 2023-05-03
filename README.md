@@ -1,13 +1,10 @@
 # Welcome
 
-Hi there 👋, I'm Julio Martinez, from the Mediterranean coast of Spain.
+Hi there 👋, I'm Julio Martínez, from the Mediterranean coast of Spain.
 
 As a seasoned developer with over 18 years of experience, I specialize in Data
-Engineering, as well as Backend Development; mastering languages like Python,
-Scala, SQL; on cloud platforms such as AWS, GCP, Databricks; with the use of
-Spark, Aiflow, dbt, Glue. Additionally, I have expertise in web programming (PHP
-and JavaScript, and possess a strong background in leading teams and DevOps. My
-academic credentials include a Master's degree in Natural Language Processing.
+Engineering, as well as Backend Development. I also love to play with Machine
+and Deep Learning.
 
 ## Repositories
 
