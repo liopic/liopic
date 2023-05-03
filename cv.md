@@ -3,25 +3,24 @@
 As a seasoned developer with over 18 years of experience, I specialize in Data
 Engineering, as well as Backend Development; mastering languages like Python,
 Scala, SQL; on cloud platforms such as AWS, GCP, Databricks; with the use of
-Spark, Aiflow, dbt, Glue. Additionally, I have expertise in web programming (PHP
-and JavaScript, and possess a strong background in leading teams and DevOps. My
-academic credentials include a Master's degree in Natural Language Processing.
+Spark, Aiflow, dbt, amonth others. Additionally, I have expertise in web
+programming (PHP, Js), and possess a strong background in leading teams and
+DevOps. My academic credentials include a Master's degree in NLP.
 
 My development practices follow rigorous standards, including CI, CD, code
 reviews, virtualization (Docker), agile methodology, clean code, and code
 quality tools. I have extensive experience working remotely, both before and
-after COVID, and have successfully managed projects independently and as a
-member or leader of a team.
+after COVID, and have successfully managed projects both as a team member and
+leader.
 
-While prioritizing high-impact deliverables, I also maintain a strong focus on
-code quality. Moreover, I have contributed to Open Source projects and have been
-a speaker at numerous conferences and meetups.
+While prioritizing high-impact deliverables to my employer, I also maintain a
+strong focus on code quality. Moreover, I have contributed to Open Source
+projects and have been a speaker at numerous conferences and meetups.
 
 ## Personal Info
 
 - Location: 46007 Valencia, Spain.
-- E-mail: [on request]
-- Phone: [on request]
+- E-mail and Phone: [on request]
 - Tech blog: http://www.liopic.me
 - Internet nickname: liopic (github, slideshare, twitter, etc)
 
@@ -106,6 +105,7 @@ a speaker at numerous conferences and meetups.
 - "Transformers: the all-in-one tool for NLP", Python Day, online, December 2020
 - "Organizing a jokes' collection using NLP", Python Conference Spain, Alicante,
   October 2019
+- "Virtual Disk design kata", Software Crafters Meetup, Barcelona, January 2019
 - "Organizing a jokes' collection using NLP", Python Day, Barcelona,
   November 2018
 - "Customer segmentation with ML", Software Craftsmanship, Barcelona,
