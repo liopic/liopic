@@ -3,8 +3,8 @@
 Hi there 👋, I'm Julio Martínez, from the Mediterranean coast of Spain.
 
 As a seasoned developer with over 18 years of experience, I specialize in Data
-Engineering, as well as Backend Development. I also love to play with Machine
-and Deep Learning.
+Engineering, as well as Backend Development. Moreover I love to play with Machine
+Learning and Deep Learning, Natural Language Processing and audio FX development.
 
 ## Repositories
 
