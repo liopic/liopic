@@ -3,7 +3,7 @@
 As a seasoned developer with over 18 years of experience, I specialize in Data
 Engineering, as well as Backend Development; mastering languages like Python,
 Scala, SQL; on cloud platforms such as AWS, GCP, Databricks; with the use of
-Spark, Aiflow, dbt, amonth others. Additionally, I have expertise in web
+Spark, Aiflow, dbt, among others. Additionally, I have expertise in web
 programming (PHP, Js), and possess a strong background in leading teams and
 DevOps. My academic credentials include a Master's degree in NLP.
 
