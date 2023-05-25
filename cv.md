@@ -121,14 +121,21 @@ projects and have been a speaker at numerous conferences and meetups.
 - English: negotiation
 - Korean: conversation
 
-## Background Education
+## Certifications and Courses
+
+- TensorFlow in Practice Specialization (4 courses); Coursera, 2020
+- Google Cloud Platform Big Data and Machine Learning Fundamentals; Coursera, 2020
+- Modernizing Data Lakes and Data Warehouses with GCP; Coursera, 2020
+- Programming Web Applications; University of Alicante, 2001
+
+
+## University Education
 
 - 6 months of PhD studies (not finished); Technical University of Catalonia,
   Spain, 2005
 - "Master of Advanced Studies" (2 years), with the work: "A sintatic model for
   Information Retrieval"; University of Alicante, Spain, 2004
 - "Computer Science Engineer" (5 years degree); University of Alicante, 2001
-- "Programming of Web Applications" 45h course; University of Alicante, 2001
 
 ## Research Publications
 
